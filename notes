@@ -1,0 +1,5 @@
+number- (integers and decimals)
+string- Anything inside quotes
+boolean- true or false
+null- empty value
+undefined - variable declared but value not assigned
