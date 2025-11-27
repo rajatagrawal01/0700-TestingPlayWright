@@ -20,9 +20,16 @@
 
 
 
-var arr=[23,22,233,234,355,5746,"Hello",true];
+var arr=[23,22,233,234,355,5746];
 
 
+// console.log(arr.indexOf(233));
+// console.log(arr.includes(23423423));
+// console.log(arr.reverse());
+
+// var double =arr.map(x=> x/2);
+
+// console.log(double);
 
 
 
@@ -67,15 +74,9 @@ var arr=[23,22,233,234,355,5746,"Hello",true];
 
 
 
-// arr.push(6); Adding value in last
-// arr.unshift(0); Adding value from first
-// arr.shift(); Removing value from first
 // var arr3 = arr.concat([1,2,3,4,5])
 // var arr4 = arr2.concat(['d','e','f']);
 // arr2.join() Defines how array will print
-// arr.indexOf(3) Provides index of an element
-// arr.includes(3) Provides availability of a value (return boolen)
-// arr.reverse() Prints reverse of an array
 // arr.every()
 // var double =arr.map(x=> x*2);
 // console.log(double);
