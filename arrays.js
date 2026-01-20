@@ -1,3 +1,4 @@
+
 // var x=[23,22,233,234,355,5746,"Hello",true];
 // length=8
 // last index=7
